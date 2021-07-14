@@ -1,6 +1,6 @@
-#Hi Everyone 👋🏻
+Hi Everyone 👋🏻
 
-#I am a coder
+I am a coder
 
 I am currently working on  A Big Website Project
 
