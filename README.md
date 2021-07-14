@@ -5,7 +5,7 @@
 <h3 align="left">About me:</h3>
 
 
-I am a coder
+
 
 I am currently working on  A Big Website Project
 >>>>>>> main
