@@ -8,7 +8,6 @@
 
 
 I am currently working on  A Big Website Project
->>>>>>> main
 
 🔭 I’m currently working on **A Big Website Project**
   
