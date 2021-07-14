@@ -1,10 +1,10 @@
-Hi Everyone 👋🏻
+<h1 align="center">Hi 👋, I'm Spandan</h1>
+<h3 align="center">A web developer</h3>
 
-I am a coder
-I am currently working on  A Big Website Project
+<h3 align="left">About me:</h3>
 
-Want to Contact Me? : SpandanJambhekar123@gmail.com
+🔭 I’m currently working on **A Big Website Project**
+  
+📫 How to reach me : **SpandanJambhekar123@gmail.com**
 
-I am Member of MGitHubOrg
-
-![spandan455's github stats](https://github-readme-stats.vercel.app/api?username=spandan455)
+<img src="https://github-readme-stats.vercel.app/api?username=spandan455&show_icons=true&locale=en" alt="spandan455" />
