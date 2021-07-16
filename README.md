@@ -21,4 +21,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=spandan455&show_icons=true&locale=en" alt="spandan455" />
 
-<div></div>
+<div style="width:100vw;height:100vh;background-color:blue;></div>
