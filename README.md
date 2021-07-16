@@ -21,9 +21,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=spandan455&show_icons=true&locale=en" alt="spandan455" />
 
-<div style=" position: absolute;
-         top: 0;
-         left: 0;
-         width: 100vw;
-         height: 100vh;
-         background: linear-gradient(45deg , rgb(0, 183, 255) , rgb(0, 255, 170) , rgb(0, 255, 0));"></div>
+<div style=" position: absolute;top: 0;left: 0;width: 100vw;height: 100vh;background: linear-gradient(45deg , rgb(0, 183, 255) , rgb(0, 255, 170) , rgb(0, 255, 0));"></div>
