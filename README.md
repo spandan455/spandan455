@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi Everyone 👋🏻, I'm Spandan</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">Learning web development</h3>
 
 <h3 align="left" style="background: linear-gradient(45deg , rgb(0, 183, 255) , rgb(0, 255, 170) , rgb(0, 255, 0));color:blue;">About me:</h3>
 
