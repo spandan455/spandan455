@@ -6,7 +6,7 @@
 
 <h3 align="left" style="background: linear-gradient(45deg , rgb(0, 183, 255) , rgb(0, 255, 170) , rgb(0, 255, 0));color:blue;">About me:</h3>
 
-<a align="left" href="https://app.daily.dev/spandy"><img src="https://api.daily.dev/devcards/e4928a9c569e44bb84a196390c3fdc76.png?r=6nt" width="400" alt="Spandan Jambhekar's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/spandy"><img src="https://api.daily.dev/devcards/e4928a9c569e44bb84a196390c3fdc76.png?r=6nt" width="400" alt="Spandan Jambhekar's Dev Card"/></a>
 
 
 
