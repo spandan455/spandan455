@@ -22,3 +22,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=spandan455&show_icons=true&locale=en" alt="spandan455" />
 
 <div style=" position: absolute;top: 0;left: 0;width: 100vw;height: 100vh;background: linear-gradient(45deg , rgb(0, 183, 255) , rgb(0, 255, 170) , rgb(0, 255, 0));"></div>
+
+
+<a href="https://app.daily.dev/spandy"><img src="https://api.daily.dev/devcards/e4928a9c569e44bb84a196390c3fdc76.png?r=6nt" width="400" alt="Spandan Jambhekar's Dev Card"/></a>
