@@ -23,6 +23,6 @@
 
 <div style=" position: absolute;top: 0;left: 0;width: 100vw;height: 100vh;background: linear-gradient(45deg , rgb(0, 183, 255) , rgb(0, 255, 170) , rgb(0, 255, 0));"></div>
 
+![certificate](https://user-images.githubusercontent.com/79681324/148083834-b83e5e58-e5a7-4e47-9f06-b241e8780c79.png)
 
 <a align="right" href="https://app.daily.dev/spandy"><img src="https://api.daily.dev/devcards/e4928a9c569e44bb84a196390c3fdc76.png?r=6nt" width="400" alt="Spandan Jambhekar's Dev Card"/></a>
-![certificate](https://user-images.githubusercontent.com/79681324/148083834-b83e5e58-e5a7-4e47-9f06-b241e8780c79.png)
