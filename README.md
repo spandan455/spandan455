@@ -13,7 +13,12 @@
 
 🔭 I’m currently working on **A Big Website Project**
   
-📫 How to reach me : **SpandanJambhekar123@gmail.com**
+📫 How to reach me 
+
+ ✉ Mail      : **SpandanJambhekar123@gmail.com**
+    Linked in : <a href="https://www.linkedin.com/in/spandan-jambhekar-289773229/" >here</a> 
+    Facebook  : <a href="https://www.facebook.com/profile.php?id=100077408381686" >here</a> 
+
 
 [I am member of MGithubOrg](https://github.com/orgs/MGithubOrg)
 
