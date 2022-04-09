@@ -26,9 +26,7 @@ Facebook  : <a href="https://www.facebook.com/profile.php?id=100077408381686" ta
 
 
 
-[I am member of MGithubOrg](https://github.com/orgs/MGithubOrg)
 
-[I am member of team MGithubCommunity](https://github.com/orgs/MGithubOrg/teams/mgithubcommunity)
 
 
 
