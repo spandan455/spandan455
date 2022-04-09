@@ -7,7 +7,7 @@
   
 📫 How to reach me 
 
- ✉ Mail : **SpandanJambhekar123@gmail.com**
+✉ Mail : **SpandanJambhekar123@gmail.com** 
 Linked in : <a href="https://www.linkedin.com/in/spandan-jambhekar-289773229/" target="_blank" >here</a>  
 Facebook  : <a href="https://www.facebook.com/profile.php?id=100077408381686" target="_blank" >here</a> 
 
