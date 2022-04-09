@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, I'm Spandan</h1>
-<h3 align="center">Want to be a professional development</h3>
+<h3 align="center">Want to be a professional developer</h3>
 
   
 📫 How to reach me 
