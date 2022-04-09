@@ -7,7 +7,7 @@
   
 
 
-   <img src="https://github-stats-alpha.vercel.app/api?username=spandan455&cc=20232a&ic=61dafb&tc=fff&bc=20232a" alt="spandan455" align="center" />
+   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=spandan455&cc=20232a&ic=61dafb&tc=fff&bc=20232a" alt="spandan455" align="center" />
    
 
 <div>
