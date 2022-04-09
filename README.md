@@ -8,10 +8,6 @@
 
 
 
-
-
-
-🔭 I’m currently working on **A Big Website Project**
   
 📫 How to reach me 
 
