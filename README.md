@@ -18,13 +18,11 @@ Facebook  : <a href="https://www.facebook.com/profile.php?id=100077408381686" ta
 
 [I am member of team MGithubCommunity](https://github.com/orgs/MGithubOrg/teams/mgithubcommunity)
 
-   <img src="https://github-stats-alpha.vercel.app/api?username=spandan455&show_icons=true&theme=react&hide_border=true&border_radius=20px" alt="spandan455" align="center" />
+   <img src="https://github-stats-alpha.vercel.app/api?username=spandan455&cc=20232a&ic=61dafb&tc=fff&bc=20232a" alt="spandan455" align="center" />
    
 
 <div>
 
-  
-<img src="https://github-readme-stats.vercel.app/api?username=spandan455&show_icons=true&theme=react&hide_border=true&border_radius=20px" alt="spandan455" align="center" />
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan455&show_icons=true&theme=react&hide_border=true&border_radius=20px" alt="spandan455" align="center" />
   
