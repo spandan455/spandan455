@@ -8,8 +8,10 @@
 📫 How to reach me 
 
 ✉ Mail : **SpandanJambhekar123@gmail.com** 
+<div>
 Linked in : <a href="https://www.linkedin.com/in/spandan-jambhekar-289773229/" target="_blank" >here</a>  
 Facebook  : <a href="https://www.facebook.com/profile.php?id=100077408381686" target="_blank" >here</a> 
+<div/>
 
 
 [I am member of MGithubOrg](https://github.com/orgs/MGithubOrg)
