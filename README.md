@@ -9,7 +9,8 @@
 
  ✉ Mail : **SpandanJambhekar123@gmail.com**
  
-&#f08c; Linked in : <a href="https://www.linkedin.com/in/spandan-jambhekar-289773229/" target="_blank" >here</a> 
+
+![LinkedinGIF](https://user-images.githubusercontent.com/79681324/162562957-cc5a38d4-7137-4091-834a-f792911100aa.gif) Linked in : <a href="https://www.linkedin.com/in/spandan-jambhekar-289773229/" target="_blank" >here</a> 
     
 Facebook  : <a href="https://www.facebook.com/profile.php?id=100077408381686" target="_blank" >here</a> 
 
